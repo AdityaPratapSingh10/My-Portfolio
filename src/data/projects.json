@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "Hungry-Hound is a dynamic food delivery application built using the MERN stack. ",
     "skills": ["React", "Express", "Node", "MongoDB" ],
-    "demo": "https://www.example.com",
+    "demo": "https://hungry-hound.netlify.app",
     "source": "https://github.com/AdityaPratapSingh10/Hungry-Hound"
   }
   
