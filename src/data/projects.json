@@ -11,7 +11,7 @@
   {
     "title": "Movie Explorer App",
     "imageSrc": "projects/project.png",
-    "description": "It is a responsive movie discovery application using React.js and integrated real-time data from The Movie Database (TMDb) API.",
+    "description": "It is a responsive movie discovery application using React.js and integrated real-time data from The Movie Database API.",
     "skills": ["React" , "TailwindCSS"],
     "demo": "https://movie-app955.netlify.app",
     "source": "https://github.com/AdityaPratapSingh10/Movie-App/tree/main/React_App"
